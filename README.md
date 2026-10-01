@@ -1,2 +1,2 @@
-# Research-Assistant
-AI model that asks questions, finds contradictions tracks papers. In process
+# AI Diary [name]
+AI model that serves as virtual diary
